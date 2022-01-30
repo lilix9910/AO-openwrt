@@ -21,3 +21,4 @@ echo 'src-git luci https://github.com/openwrt/luci.git' >>feeds.conf.default
 echo 'src-git packages https://github.com/openwrt/packages' >>feeds.conf.default
 echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default
 echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default
+echo 'src-git MTK https://github.com/lilix9910/k2p-openwrt-mt7615_5.0.2.0' >>feeds.conf.default
